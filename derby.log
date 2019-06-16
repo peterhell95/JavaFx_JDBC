@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jun 16 12:49:06 CEST 2019:
+ Derby The Apache Software Foundation - Apache Derby - 10.11.1.2 - (1629631) változat betöltése: a816c00e-016b-5fe7-aaa5-000006f00000 példány
+a(z) C:\Users\Peter\IdeaProjects\ExpertFX\sampleDB adatbázis-könyvtáron: jdk.internal.loader.ClassLoaders$AppClassLoader@5fa7e7ff 
+
+java.vendor=Oracle Corporation
+java.runtime.version=10.0.2+13
+user.dir=C:\Users\Peter\IdeaProjects\ExpertFX
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Az adatbázis-osztálybetöltő elindult - derby.database.classpath=''
